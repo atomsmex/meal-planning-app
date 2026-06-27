@@ -1,0 +1,4 @@
+- Dependency vulnerability scanning (Safety)
+- CodeQL static analysis (GitHub's security tool)
+- Dockerfile security scanning (Trivy)
+- Runs weekly + on every push/PR
