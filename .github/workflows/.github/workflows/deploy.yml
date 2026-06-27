@@ -1,0 +1,5 @@
+- Builds production Docker image
+- Pushes to Docker Hub (requires secrets setup)
+- Deploys to server (you configure the target)
+- Creates deployment status records
+- Triggers on: push to main only
