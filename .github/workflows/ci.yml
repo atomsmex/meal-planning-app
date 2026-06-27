@@ -1,0 +1,6 @@
+- Runs tests with pytest
+- Lints code with flake8
+- Builds Docker images (dev & production)
+- Validates Dockerfile with hadolint
+- Uploads coverage to Codecov
+- Triggers on: push to main/develop, pull requests
